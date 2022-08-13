@@ -12,9 +12,9 @@ This evaluation is provided for prepaid plans on E-SIM support subscriptions and
 ## Usage
 ### Steps to run
 
-1. Clone repository: git clone https://github.com/sekhonramneek/eSIMQoS.git
+1. Clone repository: 
 ```bash
-git clone
+git clone https://github.com/sekhonramneek/eSIMQoS.git
 ```
 2. Navigate to project directory:
 ```bash
