@@ -12,13 +12,13 @@ This evaluation is provided for prepaid plans on E-SIM support subscriptions and
 ## Usage
 ### Steps to run
 
-1. Clone repository:
+1. Clone repository: git clone https://github.com/sekhonramneek/eSIMQoS.git
 ```bash
 git clone
 ```
 2. Navigate to project directory:
 ```bash
-cd optimal-switching-behaviour-evaluation-QoS
+cd eSIMQoS
 ```
 3. Create new Python virtual environment [Optional]
 
